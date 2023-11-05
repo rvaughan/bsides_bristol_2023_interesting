@@ -1,4 +1,4 @@
-# bsides_bristol_2023_interesting
+# BSides Bristol 2023 Interesting Things
 
 This repository contains a list of things and talks I found interesting at [BSides Bristol](https://www.bsidesbristol.org.uk/) 2023
 
